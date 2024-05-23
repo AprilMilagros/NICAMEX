@@ -7,5 +7,4 @@ el Swich2 por la Gig0/1 con la ip 172.168.0.65/27 por la FastEthernet24 al Swich
 FastEthernet0/1 a la FastEthernet0 a la PC2 con la ip 172.168.0.66.
 
 
-
 Se muestra la tabla con las interfaces de cada Router y de cada Swich con sus respectivas direcciones IP, y su mascara correspondiente.
