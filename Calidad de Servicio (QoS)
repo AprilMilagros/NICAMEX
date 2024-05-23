@@ -1,1 +1,19 @@
+La implementación de Calidad de Servicio (QoS) en la red del sistema de gestión de engorda porcina se ha llevado a cabo de la siguiente manera:
 
+Priorización del Tráfico Crítico:
+- Hemos identificado y clasificado los diferentes tipos de tráfico presentes en la red, como tráfico de aplicaciones de control, monitorización, voz y video.
+- Asignamos niveles de prioridad más altos a los flujos de tráfico críticos, como las comunicaciones de voz y video, para garantizar su entrega oportuna y con baja latencia.
+- Configuramos políticas QoS en los dispositivos de red, como enrutadores y switches, para marcar y priorizar el tráfico según su clasificación.
+
+Gestión Eficiente del Ancho de Banda:
+- Hemos realizado un análisis exhaustivo del consumo de ancho de banda en la red, identificando patrones de tráfico y picos de demanda.
+- Implementamos técnicas de control de admisión de flujos de tráfico, limitando el ancho de banda asignado a aplicaciones menos críticas cuando se detecta congestión.
+- Utilizamos tecnologías de shaped y shaping para limitar el ancho de banda máximo de ciertos tipos de tráfico, evitando que puedan consumir recursos en exceso.
+- Implementamos políticas de limitación de ancho de banda por usuario o por aplicación, para asegurar un uso equitativo de los recursos de red.
+
+Monitorización y Ajuste Continuo:
+- Hemos desplegado herramientas de monitorización y análisis del tráfico de red, que nos permiten visualizar el consumo de ancho de banda, latencia, jitter y otros parámetros de calidad.
+- Revisamos periódicamente las configuraciones QoS y realizamos ajustes finos para optimizar el rendimiento de la red, en función de los datos recopilados por las herramientas de monitorización.
+- Establecimos umbrales de alerta y procesos de escalamiento para que, ante problemas de calidad de servicio, podamos intervenir rápidamente y resolver los problemas.
+
+Estas estrategias de implementación de Calidad de Servicio (QoS) nos permiten garantizar un rendimiento óptimo de la red del sistema de gestión de engorda porcina, priorizando el tráfico crítico y gestionando eficientemente el uso del ancho de banda disponible.
