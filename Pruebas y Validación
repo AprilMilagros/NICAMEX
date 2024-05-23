@@ -1,1 +1,21 @@
+Pruebas de Conectividad:
 
+-Realizamos un mapeo exhaustivo de la conectividad de la red, verificando que todos los dispositivos y puntos finales puedan comunicarse entre sí sin problemas.
+-Probamos la conectividad tanto dentro de la red local como hacia internet, asegurándonos de que las interfaces y protocolos de enrutamiento funcionen adecuadamente.
+-Validamos que los equipos y aplicaciones puedan acceder a los recursos y servidores requeridos sin interrupciones, simulando escenarios de uso normal.
+
+Pruebas de Rendimiento:
+
+-Evaluamos el rendimiento general de la red, midiendo parámetros clave como velocidad de transferencia, latencia y capacidad de tráfico.
+-Monitoreamos de forma continua el consumo de recursos como ancho de banda, utilización de CPU y almacenamiento, y realizamos ajustes de configuración cuando es necesario para mantener un óptimo desempeño.
+-Realizamos pruebas de carga y estrés para simular picos de tráfico y validar que la infraestructura de red pueda soportar la demanda esperada.
+
+Pruebas de Seguridad:
+
+-Llevamos a cabo evaluaciones de seguridad exhaustivas, incluyendo escaneos de vulnerabilidades, pruebas de penetración y revisiones de las configuraciones de dispositivos.
+-Validamos la efectividad de las medidas de seguridad implementadas, como firewalls, sistemas de detección y prevención de intrusos (IDS/IPS) y controles de acceso.
+-Verificamos que los mecanismos de autenticación, cifrado y protección de datos funcionen correctamente para mitigar riesgos de ataques o accesos no autorizados.
+-Realizamos pruebas de recuperación ante incidentes de seguridad para validar la efectividad del plan de respuesta a incidentes.
+
+
+Estas pruebas y validaciones nos permiten asegurar la conectividad, rendimiento y seguridad de la red, garantizando la correcta operación del sistema de gestión de engorda porcina.
