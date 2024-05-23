@@ -1,1 +1,17 @@
+1. Protocolo TCP/IP (Transmission Control Protocol/Internet Protocol):
+  •Es el conjunto de protocolos fundamentales que permiten la comunicación entre dispositivos en una red.
+  •Se encarga de la dirección, el enrutamiento y el transporte de los paquetes de datos a través de la red.
+2. Protocolo OSPF (Open Shortest Path First):
+  •Es un protocolo de enrutamiento dinámico basado en el algoritmo de Dijkstra.
+  •Se utiliza para determinar la ruta más corta entre los dispositivos en la red, optimizando el flujo de tráfico.
+3. VLAN (Virtual Local Area Network):
+  •Permite crear redes lógicas independientes dentro de una misma red física.
+  •Se utilizó para segmentar el tráfico y aislar dominios de difusión, mejorando la seguridad y el rendimiento de la red.
+4. VPN (Virtual Private Network):
+  •Permite establecer conexiones seguras y encriptadas entre dispositivos remotos y la red interna.
+  •Se implementó para brindar acceso remoto seguro a los usuarios y aplicaciones críticas.
+5. QoS (Quality of Service):
+  •Conjunto de tecnologías y mecanismos que permiten priorizar y gestionar el tráfico de red.
+  •Se utilizó para garantizar el rendimiento y la calidad de servicio para aplicaciones sensibles al retardo, como voz y video.
 
+Estas tecnologías y protocolos desempeñaron un papel fundamental en la implementación de la red, proporcionando conectividad, seguridad, calidad de servicio y facilidades de administración y monitoreo.
