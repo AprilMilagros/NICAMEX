@@ -1,1 +1,16 @@
+Monitoreo y Supervisión de la Red
 
+Sistema de Monitoreo Centralizado: Se ha implementado una plataforma de monitoreo de red centralizada que recopila y analiza datos en tiempo real de todos los dispositivos y segmentos de la red. Esto permite la detección temprana de problemas y una rápida respuesta.
+
+Mantenimiento Preventivo y Correctivo
+
+Monitoreo de Capacidad: Se realiza un monitoreo continuo de la capacidad de la red (ancho de banda, utilización de puertos, etc.) para identificar y planificar la expansión de la infraestructura antes de que se presenten cuellos de botella.
+Procedimientos de Resolución de Problemas: Se han documentado y estandarizado los procedimientos para la resolución de problemas comunes, como la sustitución de dispositivos, la reconfiguración de enlaces y la recuperación ante fallas.
+
+Respaldo y Recuperación ante Desastres
+
+Estrategia de Respaldo: Se ha implementado una estrategia de respaldo integral que incluye copias de seguridad periódicas de la configuración de los dispositivos de red, registros de eventos y bases de datos del sistema de gestión.
+Sitio de Recuperación ante Desastres: Se ha establecido un sitio de recuperación ante desastres, donde se replican en tiempo real los componentes críticos de la red. Esto permite la rápida recuperación y restauración del servicio en caso de una interrupción mayor.
+Pruebas de Recuperación: Se realizan periódicamente pruebas de recuperación ante desastres, donde se valida la integridad de los respaldos y se verifica el proceso de restauración del sistema, a fin de garantizar la efectividad del plan de continuidad del negocio.
+
+Estas prácticas de mantenimiento y gestión de la red aseguran la disponibilidad, confiabilidad y rendimiento del sistema de gestión de engorda porcina a lo largo de su ciclo de vida.
