@@ -1,1 +1,29 @@
+A continuación, se presentan las principales características de la red de datos implementada:
 
+1. Arquitectura de red:
+   - La red adopta una disposición en forma de estrella, con un conmutador central que interconecta los diversos segmentos.
+   - Esta configuración facilita la expansión de la red, ya que permite agregar, editar o eliminar dispositivos sin afectar el resto del sistema.
+   - Además, mejora la fiabilidad, ya que un fallo en un segmento no repercute en los demás.
+
+2. Tecnologías y protocolos de red:
+   - El protocolo de red utilizado es TCP/IP, que proporciona un modelo de comunicación estandarizado y escalable.
+   - El cableado se basa en la tecnología Ethernet, implementando cables Cat6 para garantizar altas velocidades de transmisión.
+   - Los dispositivos de red empleados, como enrutadores, conmutadores y adaptadores de red, admiten funcionalidades avanzadas.
+
+3. Esquema de direccionamiento IP:
+   - Se ha implementado un esquema de direccionamiento IP que utiliza clases de red y subredes para organizar y segmentar de manera eficiente el espacio de direcciones.
+   - Las subredes permiten una administración más minuciosa del tráfico, lo que mejora el rendimiento y la seguridad de la red.
+
+4. Redundancia y tolerancia a fallos:
+   - Se han configurado protocolos de enrutamiento dinámico, como OSPF y EIGRP, para proporcionar rutas alternativas en caso de fallos en los enlaces.
+   - Esto aumenta la disponibilidad y confiabilidad de la red, asegurando la continuidad del servicio.
+
+5. Aspectos de seguridad:
+   - Se ha implementado un cortafuegos para controlar y filtrar el tráfico entrante y saliente de la red, brindando protección contra amenazas externas.
+   - Se han configurado reglas de acceso y políticas de seguridad para restringir el acceso no autorizado a los recursos de la red.
+
+6. Capacidad de escalabilidad:
+   - La arquitectura en estrella y el uso de tecnologías Ethernet y TCP/IP permiten la fácil ampliación de la red a medida que las necesidades de la empresa crezcan.
+   - La implementación de subredes y protocolos de enrutamiento dinámico facilita la incorporación de nuevos segmentos y dispositivos.
+
+Estas características de la red de datos garantizan una infraestructura robusta, segura y escalable que respalda eficazmente el funcionamiento del sistema de gestión de engorda porcina.
