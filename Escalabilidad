@@ -1,1 +1,15 @@
+Escalabilidad de la Red
 
+Arquitectura Modular: La red fue diseñada siguiendo un enfoque modular, lo que permite añadir o expandir segmentos de red de forma incremental sin afectar el funcionamiento del sistema existente.
+Esquema de Direccionamiento IP: Se implementó un esquema de direccionamiento IP jerárquico y escalable, usando bloques de direcciones IP reservados para posibles expansiones. Esto garantiza que haya suficiente espacio de direccionamiento para incorporar nuevos dispositivos sin tener que reconfigurar la red existente.
+Protocolos de Enrutamiento Dinámico: Se utilizan protocolos de enrutamiento dinámico que permiten que la red aprenda y adapte automáticamente las rutas ante cambios en la topología, como la adición de nuevos segmentos o dispositivos.
+Switches y Routers Modulares: Los equipos de red seleccionados (switches y routers) tienen capacidades de expansión modular, lo que permite agregar puertos, tarjetas de interfaz o unidades de procesamiento adicionales según las necesidades de crecimiento.
+
+Tolerancia a Fallos y Disponibilidad
+
+Redundancia de Enlaces: Se han implementado enlaces redundantes entre los principales nodos de la red, de manera que la pérdida de un enlace no interrumpa el servicio.
+Alta Disponibilidad: Los dispositivos críticos, como routers y switches, han sido seleccionados con características de alta disponibilidad, como fuentes de alimentación redundantes y funcionalidades de conmutación por error.
+Monitoreo y Gestión Centralizada: Se ha implementado un sistema de monitoreo y gestión de red centralizado, que permite la detección y rápida resolución de problemas, minimizando el tiempo de inactividad.
+
+
+Con este diseño escalable y resiliente, la red del sistema de gestión de engorda porcina está preparada para crecer y adaptarse a las necesidades cambiantes de la granja sin interrumpir el servicio existente.
