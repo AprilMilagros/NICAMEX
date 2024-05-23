@@ -1,1 +1,15 @@
+Firewall:
 
+Se ha desplegado un firewall perimetral de próxima generación que inspecciona todo el tráfico entrante y saliente de la red.
+El firewall está configurado con reglas de filtrado y políticas de seguridad que permiten únicamente el tráfico autorizado y bloquean accesos no autorizados.
+Se realizan actualizaciones periódicas de las definiciones de amenazas y reglas del firewall para mantener la protección actualizada.
+
+Sistema de Detección y Prevención de Intrusos (IDS/IPS):
+
+Se ha implementado un sistema de detección y prevención de intrusos (IDS/IPS) que monitorea el tráfico de la red en busca de actividad sospechosa o ataques.
+El IDS/IPS está configurado para generar alertas en caso de detectar patrones de comportamiento malicioso, permitiendo una rápida respuesta y mitigación.
+Se lleva a cabo el análisis de los registros del IDS/IPS para identificar y corregir vulnerabilidades o brechas de seguridad.
+
+
+Estas medidas de seguridad implementadas en la red del sistema de gestión de engorda porcina buscan mitigar los riesgos de amenazas internas y externas, 
+protegiendo la confidencialidad, integridad y disponibilidad de la información.
