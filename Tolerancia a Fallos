@@ -1,1 +1,23 @@
+estrategias y tecnologías implementadas para garantizar la tolerancia a fallos y la disponibilidad de la red del sistema de gestión de engorda porcina:
 
+Redundancia de Enlaces:
+
+Se han implementado enlaces redundantes entre los principales componentes de la red, como servidores, switches y routers.
+Utilizamos tecnologías de balanceo de carga y failover automático, de modo que, en caso de fallo de un enlace, el tráfico se conmuta de manera transparente al enlace redundante.
+Hemos desplegado protocolos de enrutamiento dinámico, como OSPF y BGP, que permiten la rápida convergencia y re-enrutamiento del tráfico en caso de problemas de conectividad.
+Alta Disponibilidad:
+
+Los servidores críticos del sistema, como los que alojan las aplicaciones y bases de datos, están configurados en esquemas de alta disponibilidad.
+Utilizamos tecnologías de clusterización y virtualización para asegurar que, en caso de fallo de un servidor, los servicios puedan ser rápidamente transferidos a otro nodo del cluster.
+Hemos implementado mecanismos de replicación y conmutación por error (failover) automática para mantener la continuidad de los servicios.
+Tolerancia a Fallos de Energía:
+
+Todos los componentes clave de la red, como switches, routers y servidores, cuentan con fuentes de alimentación redundantes.
+Se ha desplegado un sistema de respaldo de energía eléctrica basado en un generador diésel y baterías de respaldo, que garantiza la continuidad del servicio en caso de cortes o fallas eléctricas.
+Realizamos pruebas periódicas del sistema de energía de respaldo para asegurar su correcto funcionamiento.
+Monitorización y Planes de Recuperación:
+
+Contamos con un sistema de monitorización integral que supervisa el estado de todos los elementos de la red y genera alertas ante posibles fallos.
+Hemos desarrollado planes de recuperación ante desastres (DRP) y procedimientos de restauración, que permiten restablecer rápidamente los servicios en caso de incidentes graves.
+Se realizan pruebas y ejercicios de recuperación de manera regular para validar la efectividad de nuestros planes y procedimientos.
+Estas estrategias y tecnologías de tolerancia a fallos nos permiten garantizar la alta disponibilidad y resiliencia de la red del sistema de gestión de engorda porcina, asegurando la continuidad de los servicios críticos.
