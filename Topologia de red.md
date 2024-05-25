@@ -1,6 +1,5 @@
-https://github.com/AprilMilagros/NICAMEX/blob/10b734e1433226a3dcfcb6eb7c5081b9243611bd/Imagenes/IMG_0110.JPEG
 <img src="Imagenes/IMG_0110.JPEG" width="50%" height="auto">
-![Mi imagen](Imagenes/IMG_0110.JPEG)
+
 Tenemos nuetsra topología logica creada en packet traicer indicando cada ip que le corresponde a cada router y cada swich,
 mostrando asi que a la PC1 le corresponde la ip 172.168.0.2/26 conectado al FastEthernet0 hacia el Swich1 a la FastEthernet0/1 
 con la ip 172.168.0.62/26 hacia el Router1 al Gig0/1 con la ip 172.168.0.1, posteriormente se hace la conexión de router a router 
