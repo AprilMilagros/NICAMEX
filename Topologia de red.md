@@ -1,4 +1,4 @@
-<img src="Imagenes/IMG_0110.JPEG" width="50%" height="auto">
+<img src="Imagenes/IMG_0110.JPEG" width="40%" height="auto">
 
 Tenemos nuetsra topología logica creada en packet traicer indicando cada ip que le corresponde a cada router y cada swich,
 mostrando asi que a la PC1 le corresponde la ip 172.168.0.2/26 conectado al FastEthernet0 hacia el Swich1 a la FastEthernet0/1 
